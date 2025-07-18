@@ -18,8 +18,7 @@ I’m a passionate **Java developer** with expertise in designing, optimizing, a
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microgen&logoColor=white"/>&nbsp;  
-  <img src="https://img.shields.io/badge/Spring-Data-JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microgen&logoColor=white"/>&nbsp;   
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=apachespark&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>&nbsp;
