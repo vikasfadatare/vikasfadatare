@@ -39,6 +39,6 @@ I’m a passionate **Java developer** with expertise in designing, optimizing, a
 
 ### 📫 **Connect With Me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([your-linkedin-url](https://www.linkedin.com/in/vikas-fadatare))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vikas-fadatare)
 
 ---
