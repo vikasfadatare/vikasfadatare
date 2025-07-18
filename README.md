@@ -1,4 +1,4 @@
-<span style=" font-size: 5px font-family: url('https://fonts.googleapis.com/css2?family=Cookie&display=swap')">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Vikas Fadatare</span> 
+<span style=" font-size: 1px font-family: url('https://fonts.googleapis.com/css2?family=Cookie&display=swap')">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Vikas Fadatare</span> 
 ========================================================================================================================================
 🌍  I am a passionate full-stack web developer based in Pune, Maharashtra, India.<br>
 
